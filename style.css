@@ -1,0 +1,145 @@
+*{
+    font-family: "inter";
+
+}
+
+#menusuperior{
+     background-color: #303030;
+     width: 1440px;
+    height: 475px;
+    gap: 0px;
+    opacity: 0px;
+padding-top: 1px;
+
+}
+
+
+#titulo{
+    padding-top: 200px;
+    margin-left: 50px;
+    color: #ffffff;   
+   
+}
+
+
+#informacoessuperior{
+   padding-top: 10px;
+    margin-left: 50px;
+    color: #ffffff;   
+
+}
+
+
+
+#informativo{
+    width: 1440px;
+    height: 229px;
+    top: -42px;
+    left: -656px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F9F9F9;
+
+}
+
+#projeto{
+    width: 361px;
+    height: 88px;
+    top: 54px;
+    left: 359px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+#mercado{
+    width: 354px;
+height: 67px;
+top: 54px;
+left: -94px;
+gap: 0px;
+opacity: 0px;
+margin-left: 110px;
+}
+
+#empreende{
+    width: 292px;
+height: 66.18px;
+top: 54px;
+left: -485px;
+gap: 0px;
+opacity: 0px;
+ margin-left: 100px;
+}
+
+
+#historia{
+
+width: 735px;
+height: 161px;
+top: 1003px;
+left: 77px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+.ambienteehistoria{
+    display: flex;
+    align-items: center;
+}
+
+#textoformulario{
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#formulario{
+    background-color: #303030;
+    padding-top: 50px;
+    padding-bottom: 50px;
+       
+}
+
+
+#campos{
+    text-align: center;
+}
+
+#botao{
+    color: #FFFFFF;
+    background-color: #C07212;
+    width: 286px;
+height: 74px;
+top: 1955px;
+left: 577px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+
+
+
+}
+
+#botaonome{
+    width: 308px;
+    height: 40px;
+    border-radius: 10px 0px 0px 0px;
+    
+    
+    
+
+}
+
+#botaoemail{
+    width: 308px;
+    height: 40px;
+    border-radius: 10px 0px 0px 0px;
+ 
+
+  
+
+}
+
